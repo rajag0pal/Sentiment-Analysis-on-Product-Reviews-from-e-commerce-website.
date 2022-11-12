@@ -1,2 +1,2 @@
-# entiment-Analysis-on-Product-Reviews-from-e-commerce-website.
+# Sentiment-Analysis-on-Product-Reviews-from-e-commerce-website.
 Using BeautifulSoup - bs4 (python) and Selenium - Webdriver, scrapping product reviews of 5000+ customers from the e-commerce website. Performing Data Cleaning, Feature Engineering, Text Preprocessing (stopwords removal, Lem, Stem, etc..) Performing Sentiment Analysis using transfomers - pipeline (python) to label positive and negative reviews.
